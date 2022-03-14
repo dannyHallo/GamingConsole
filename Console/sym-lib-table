@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "dannySymLib")(type "Legacy")(uri "E:/Kicad/DannySymLibs/dannySymLib.lib")(options "")(descr "")(disabled))
+)

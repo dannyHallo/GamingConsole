@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Administrator\Desktop\GamingConsole\Console\game.kicad_sch</source>
+    <date>14/03/2022 13:56:12</date>
+    <tool>Eeschema (6.0.2)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>game.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="B1">
+      <value>Li-ion_600maH_1A</value>
+      <footprint>DannyFootprintLibs:2P bat</footprint>
+      <libsource lib="dannySymLib" part="Li-ion_600maH_1A" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31263abc-734c-4de9-b95a-46c146d5aef2</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>DannyFootprintLibs:C0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+      </fields>
+      <libsource lib="dannySymLib" part="C0603" description="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Description" value="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Height" value="0.33"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Part Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddd672c2-626e-444b-9948-17c3b191fe2e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>20pF</value>
+      <footprint>DannyFootprintLibs:C0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+      </fields>
+      <libsource lib="dannySymLib" part="C0603" description="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Description" value="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Height" value="0.33"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Part Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f8c0a46-38fa-41ba-bc7f-43ac77a54ad5</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>20pF</value>
+      <footprint>DannyFootprintLibs:C0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+      </fields>
+      <libsource lib="dannySymLib" part="C0603" description="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Description" value="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Height" value="0.33"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Part Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aaf0be9d-1905-49e6-99e1-15bdcc5c6ece</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>DannyFootprintLibs:C0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+      </fields>
+      <libsource lib="dannySymLib" part="C0603" description="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Description" value="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Height" value="0.33"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Part Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df63cff5-be97-4074-b927-d692a3f94874</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>DannyFootprintLibs:C0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+      </fields>
+      <libsource lib="dannySymLib" part="C0603" description="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Description" value="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Height" value="0.33"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Part Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d68b681-5b3e-4e65-a14e-5fb6bddbdae2</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>DannyFootprintLibs:C0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+      </fields>
+      <libsource lib="dannySymLib" part="C0603" description="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Description" value="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Height" value="0.33"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Part Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>618b236d-d6de-42f4-8bd1-123c2adba27f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>DannyFootprintLibs:C0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+      </fields>
+      <libsource lib="dannySymLib" part="C0603" description="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Description" value="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Height" value="0.33"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Part Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84b0374f-ddab-4b2a-8702-3d1fe1493397</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>DannyFootprintLibs:C0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+      </fields>
+      <libsource lib="dannySymLib" part="C0603" description="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Description" value="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Height" value="0.33"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Part Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38bdab25-2f9a-4713-97ff-a05239e9bc8b</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>DannyFootprintLibs:C0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+      </fields>
+      <libsource lib="dannySymLib" part="C0603" description="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Description" value="TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF"/>
+      <property name="Height" value="0.33"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Part Number" value="C0603C0G1H101J030BA"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd1f3cdd-60d3-4126-b400-860ba5276d72</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>FB0805</value>
+      <footprint>DannyFootprintLibs:L0805</footprint>
+      <libsource lib="dannySymLib" part="FB0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>034a2cc3-7676-4e77-bd58-b3827d36e729</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>FB0805</value>
+      <footprint>DannyFootprintLibs:L0805</footprint>
+      <libsource lib="dannySymLib" part="FB0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f24c2bf-a9c7-44ef-9500-effac626c32a</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>ADP160AUJZ-3.3-R7</value>
+      <footprint>DannyFootprintLibs:SOT95P280X100-5N</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Analog-Devices-ADI-ADP160AUJZ-3-3-R7_C153207.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ADP160AUJZ-3.3-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp160aujz-3.3-r7/analog-devices?region=nac</field>
+        <field name="Description">Linear Voltage Regulators 150mA LDO 3.3Vout w/ QOD</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADP160AUJZ-3.3-R7</field>
+        <field name="Mouser Part Number">584-ADP160AUJZ-3.3R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP160AUJZ-33-R7?qs=WIvQP4zGanjwQREaBvEWig%3D%3D</field>
+      </fields>
+      <libsource lib="dannySymLib" part="ADP160AUJZ-3.3-R7" description="Linear Voltage Regulators 150mA LDO 3.3Vout w/ QOD"/>
+      <property name="Description" value="Linear Voltage Regulators 150mA LDO 3.3Vout w/ QOD"/>
+      <property name="Height" value="1"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="ADP160AUJZ-3.3-R7"/>
+      <property name="Mouser Part Number" value="584-ADP160AUJZ-3.3R7"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP160AUJZ-33-R7?qs=WIvQP4zGanjwQREaBvEWig%3D%3D"/>
+      <property name="Arrow Part Number" value="ADP160AUJZ-3.3-R7"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp160aujz-3.3-r7/analog-devices?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>130d26da-91fc-41df-a142-fe11db992c24</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>DW07D</value>
+      <footprint>DannyFootprintLibs:SOT95P290X124-6N</footprint>
+      <datasheet>https://www.alldatasheet.com/view.jsp?Searchword=DW06D</datasheet>
+      <fields>
+        <field name="Description">SOT-23-6 Battery Protection ICs RoHS</field>
+        <field name="Height">1.24</field>
+        <field name="Manufacturer_Name">SHENZHEN FUMAN ELECTRONICS CO., LTD.</field>
+        <field name="Manufacturer_Part_Number">DW07D</field>
+      </fields>
+      <libsource lib="dannySymLib" part="DW07D" description="SOT-23-6 Battery Protection ICs RoHS"/>
+      <property name="Description" value="SOT-23-6 Battery Protection ICs RoHS"/>
+      <property name="Height" value="1.24"/>
+      <property name="Manufacturer_Name" value="SHENZHEN FUMAN ELECTRONICS CO., LTD."/>
+      <property name="Manufacturer_Part_Number" value="DW07D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfb06bf9-3b79-4ee2-8512-e0cde36524d3</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>TP4056X</value>
+      <footprint>DannyFootprintLibs:ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Nanjing-Extension-Microelectronics-TP4056X_C191323.pdf</datasheet>
+      <fields>
+        <field name="Description">PMIC - Battery Management SOP-8_EP_150mil RoHS</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Nanjing Extension Microelectronics</field>
+        <field name="Manufacturer_Part_Number">TP4056X</field>
+      </fields>
+      <libsource lib="dannySymLib" part="TP4056X" description="PMIC - Battery Management SOP-8_EP_150mil RoHS"/>
+      <property name="Description" value="PMIC - Battery Management SOP-8_EP_150mil RoHS"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Nanjing Extension Microelectronics"/>
+      <property name="Manufacturer_Part_Number" value="TP4056X"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1213a552-284e-4d56-9a87-6a6852062933</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>TYPE-C-31-M-17</value>
+      <footprint>DannyFootprintLibs:TYPE-C-SMD_TYPE-C-31-M-16</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/1903211732_Korean-Hroparts-Elec-TYPE-C-31-M-17_C283540.pdf</datasheet>
+      <fields>
+        <field name="Description">USB Connectors 6 Receptacle 1 RoHS</field>
+        <field name="Height">3.26</field>
+        <field name="Manufacturer_Name">Korean Hroparts Elec</field>
+        <field name="Manufacturer_Part_Number">TYPE-C-31-M-17</field>
+      </fields>
+      <libsource lib="dannySymLib" part="TYPE-C-31-M-17" description="USB Connectors 6 Receptacle 1 RoHS"/>
+      <property name="Description" value="USB Connectors 6 Receptacle 1 RoHS"/>
+      <property name="Height" value="3.26"/>
+      <property name="Manufacturer_Name" value="Korean Hroparts Elec"/>
+      <property name="Manufacturer_Part_Number" value="TYPE-C-31-M-17"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6b60be7-9675-476d-a4ea-534213bc1d0c</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>FPC 0.5mm 10P</value>
+      <footprint>DannyFootprintLibs:FPC 0.5mm 10P</footprint>
+      <datasheet>http://www.farnell.com/datasheets/586796.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">1-1734839-0</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/1-1734839-0/te-connectivity</field>
+        <field name="Description">FFC &amp; FPC Connectors 0.5mm PITCH T/C 10P FPC</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">1-1734839-0</field>
+        <field name="Mouser Part Number">571-1-1734839-0</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1-1734839-0/?qs=sXy4Dx%2FMQpP10O8tS9a6RA%3D%3D</field>
+      </fields>
+      <libsource lib="dannySymLib" part="FPC 0.5mm 10P" description="FFC &amp; FPC Connectors 0.5mm PITCH T/C 10P FPC"/>
+      <property name="Description" value="FFC &amp; FPC Connectors 0.5mm PITCH T/C 10P FPC"/>
+      <property name="Height" value="2"/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="1-1734839-0"/>
+      <property name="Mouser Part Number" value="571-1-1734839-0"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1-1734839-0/?qs=sXy4Dx%2FMQpP10O8tS9a6RA%3D%3D"/>
+      <property name="Arrow Part Number" value="1-1734839-0"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/1-1734839-0/te-connectivity"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbec2afb-ece4-4743-bb96-1194f02e0499</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Short Bat Protection</value>
+      <footprint>DannyFootprintLibs:Jumper_2P</footprint>
+      <libsource lib="" part="Jumper_caps_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cef8cb0d-bdc7-4670-9a5f-fc1d5c276417</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>Working current</value>
+      <footprint>DannyFootprintLibs:Jumper_2P</footprint>
+      <libsource lib="" part="Jumper_caps_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8730dd4b-f3ad-4985-ae66-0e27d7000ba3</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>Charge current</value>
+      <footprint>DannyFootprintLibs:Jumper_2P</footprint>
+      <libsource lib="dannySymLib" part="Jumper_caps" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae766e4a-c026-4ead-966d-c78b91b90c4e</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>Led</value>
+      <footprint>DannyFootprintLibs:LED0805-RD_RED</footprint>
+      <libsource lib="dannySymLib" part="Led" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3e417e5-4695-43bc-a36c-83ee149f23c3</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>Led</value>
+      <footprint>DannyFootprintLibs:LED0805-RD_RED</footprint>
+      <libsource lib="dannySymLib" part="Led" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>050ff818-152d-473c-9522-3c76b4b30553</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>SWDPins</value>
+      <footprint>DannyFootprintLibs:4X1_PROGRAM_PIN</footprint>
+      <libsource lib="dannySymLib" part="SWDPins" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b509ccd3-18dc-4c38-9fda-b8d8cf2968f2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa21a17b-7fc5-42cb-952f-7ffd51ffce28</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc9f87d0-48b1-4cf2-bda4-c9ad2c36c268</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab55ebbc-cb4c-4917-b2ec-e093ad55a77f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65d669f9-3934-41f9-87bd-c4b9bf6eb5ff</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2341c604-0254-4a0c-bfde-eda87181b7e5</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1.1k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c84877c2-50ce-4a96-9b7b-beedc49993ff</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff10cc72-8fad-40f3-8bab-ae6501e1c0c9</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6878f22-382a-406b-b1f9-0487864bb9aa</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d6a81b2-8001-4e2b-ac05-86fa54ea2e89</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49e3adb1-a6ea-47f3-bb1a-9df948102850</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75ebe278-b91a-422f-8957-be0ad7a3e80c</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>DannyFootprintLibs:R0603</footprint>
+      <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+      </fields>
+      <libsource lib="dannySymLib" part="CR0603" description="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Description" value="Bourns Chip Resistors CR0603 series 681"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Part Number" value="CR0603-JW-681ELF"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cr0603-jw-681elf/bourns"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ce991a1-eaaa-4717-9161-cccf2c01a6e3</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>RKJXV122400R</value>
+      <footprint>DannyFootprintLibs:RKJXV122400R</footprint>
+      <datasheet>https://tech.alpsalpine.com/prod/e/html/multicontrol/potentiometer/rkjxk/rkjxv122400r.html</datasheet>
+      <fields>
+        <field name="Description">RKJXV122400R</field>
+        <field name="Height">18.95</field>
+        <field name="Manufacturer_Name">ALPS Electric</field>
+        <field name="Manufacturer_Part_Number">RKJXV122400R</field>
+        <field name="Mouser Part Number">688-RKJXV122400R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/RKJXV122400R?qs=GedFDFLaBXEbB%252ByoOVwLBg%3D%3D</field>
+      </fields>
+      <libsource lib="dannySymLib" part="RKJXV122400R" description="RKJXV122400R"/>
+      <property name="Description" value="RKJXV122400R"/>
+      <property name="Height" value="18.95"/>
+      <property name="Manufacturer_Name" value="ALPS Electric"/>
+      <property name="Manufacturer_Part_Number" value="RKJXV122400R"/>
+      <property name="Mouser Part Number" value="688-RKJXV122400R"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Alps-Alpine/RKJXV122400R?qs=GedFDFLaBXEbB%252ByoOVwLBg%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7709c20a-7f9c-4981-9889-394965811ae3</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>PG1353</value>
+      <footprint>DannyFootprintLibs:SW_Kailh_Choc_V2</footprint>
+      <libsource lib="dannySymLib" part="PG1353" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56c06e31-62ef-4f9b-add3-9b16ff66d7cf</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>PG1353</value>
+      <footprint>DannyFootprintLibs:SW_Kailh_Choc_V2</footprint>
+      <libsource lib="dannySymLib" part="PG1353" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68d04881-afeb-4db5-a426-47cf605474e7</tstamps>
+    </comp>
+    <comp ref="S4">
+      <value>9*3.5*3.5_toggle_switch</value>
+      <footprint>DannyFootprintLibs:9_3.5_3.5_Toggle_Switch</footprint>
+      <libsource lib="dannySymLib" part="9*3.5*3.5_toggle_switch" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d97ccfa-f0cd-4be7-b07c-7d38dc5ddf18</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>STM32F103CBUx</value>
+      <footprint>Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf</datasheet>
+      <libsource lib="MCU_ST_STM32F1" part="STM32F103CBUx" description="ARM Cortex-M3 MCU, 128KB flash, 20KB RAM, 72MHz, 2-3.6V, 37 GPIO, UFQFPN-48"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8adff112-507d-4a7f-b1d5-be2d48c64f7a</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>5032_2P</value>
+      <footprint>DannyFootprintLibs:5032_2P</footprint>
+      <libsource lib="dannySymLib" part="5032_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="game.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ddf6f6a-58a5-4859-80ab-edf8cd51540b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="Jumper_caps_1">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_caps_1</field>
+        <field name="Footprint">DannyFootprintLibs:Jumper_2P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Jumper_caps_2">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_caps_2</field>
+        <field name="Footprint">DannyFootprintLibs:Jumper_2P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32F1" part="STM32F103CBUx">
+      <description>ARM Cortex-M3 MCU, 128KB flash, 20KB RAM, 72MHz, 2-3.6V, 37 GPIO, UFQFPN-48</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F103CBUx</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14" type="bidirectional"/>
+        <pin num="4" name="PC15" type="bidirectional"/>
+        <pin num="5" name="PD0" type="input"/>
+        <pin num="6" name="PD1" type="input"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="PB11" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13" type="bidirectional"/>
+        <pin num="35" name="VSS" type="power_in"/>
+        <pin num="36" name="VDD" type="power_in"/>
+        <pin num="37" name="PA14" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="BOOT0" type="input"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+        <pin num="49" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="5032_2P">
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">5032_2P</field>
+        <field name="Footprint">DannyFootprintLibs:5032_2P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="9*3.5*3.5_toggle_switch">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">9*3.5*3.5_toggle_switch</field>
+        <field name="Footprint">DannyFootprintLibs:9_3.5_3.5_Toggle_Switch</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+        <pin num="3" name="" type="bidirectional"/>
+        <pin num="4" name="" type="bidirectional"/>
+        <pin num="5" name="" type="bidirectional"/>
+        <pin num="6" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="ADP160AUJZ-3.3-R7">
+      <description>Linear Voltage Regulators 150mA LDO 3.3Vout w/ QOD</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/Analog-Devices-ADI-ADP160AUJZ-3-3-R7_C153207.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ADP160AUJZ-3.3-R7</field>
+        <field name="Footprint">DannyFootprintLibs:SOT95P280X100-5N</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/Analog-Devices-ADI-ADP160AUJZ-3-3-R7_C153207.pdf</field>
+        <field name="Description">Linear Voltage Regulators 150mA LDO 3.3Vout w/ QOD</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADP160AUJZ-3.3-R7</field>
+        <field name="Mouser Part Number">584-ADP160AUJZ-3.3R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP160AUJZ-33-R7?qs=WIvQP4zGanjwQREaBvEWig%3D%3D</field>
+        <field name="Arrow Part Number">ADP160AUJZ-3.3-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp160aujz-3.3-r7/analog-devices?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="C0603">
+      <description>TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</description>
+      <docs>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C0603</field>
+        <field name="Footprint">DannyFootprintLibs:C0603</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf</field>
+        <field name="Description">TDK C0603 100pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5pF</field>
+        <field name="Height">0.33</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Part Number">C0603C0G1H101J030BA</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c0g1h101j030ba/tdk</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="CR0603">
+      <description>Bourns Chip Resistors CR0603 series 681</description>
+      <docs>https://www.bourns.com/pdfs/chpreztr.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">CR0603</field>
+        <field name="Footprint">DannyFootprintLibs:R0603</field>
+        <field name="Datasheet">https://www.bourns.com/pdfs/chpreztr.pdf</field>
+        <field name="Description">Bourns Chip Resistors CR0603 series 681</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Part Number">CR0603-JW-681ELF</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cr0603-jw-681elf/bourns</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="DW07D">
+      <description>SOT-23-6 Battery Protection ICs RoHS</description>
+      <docs>https://www.alldatasheet.com/view.jsp?Searchword=DW06D</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">DW07D</field>
+        <field name="Footprint">DannyFootprintLibs:SOT95P290X124-6N</field>
+        <field name="Datasheet">https://www.alldatasheet.com/view.jsp?Searchword=DW06D</field>
+        <field name="Description">SOT-23-6 Battery Protection ICs RoHS</field>
+        <field name="Height">1.24</field>
+        <field name="Manufacturer_Name">SHENZHEN FUMAN ELECTRONICS CO., LTD.</field>
+        <field name="Manufacturer_Part_Number">DW07D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V-" type="passive"/>
+        <pin num="2" name="S1" type="passive"/>
+        <pin num="3" name="S2" type="passive"/>
+        <pin num="4" name="D" type="passive"/>
+        <pin num="5" name="VDD" type="passive"/>
+        <pin num="6" name="VSS" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="FB0805">
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FB0805</field>
+        <field name="Footprint">DannyFootprintLibs:L0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="FPC 0.5mm 10P">
+      <description>FFC &amp; FPC Connectors 0.5mm PITCH T/C 10P FPC</description>
+      <docs>http://www.farnell.com/datasheets/586796.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">FPC 0.5mm 10P</field>
+        <field name="Footprint">DannyFootprintLibs:FPC 0.5mm 10P</field>
+        <field name="Datasheet">http://www.farnell.com/datasheets/586796.pdf</field>
+        <field name="Description">FFC &amp; FPC Connectors 0.5mm PITCH T/C 10P FPC</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">1-1734839-0</field>
+        <field name="Mouser Part Number">571-1-1734839-0</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1-1734839-0/?qs=sXy4Dx%2FMQpP10O8tS9a6RA%3D%3D</field>
+        <field name="Arrow Part Number">1-1734839-0</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/1-1734839-0/te-connectivity</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="MP1" name="MP1" type="passive"/>
+        <pin num="MP2" name="MP2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="Jumper_caps">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_caps</field>
+        <field name="Footprint">DannyFootprintLibs:Jumper_2P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="Led">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">Led</field>
+        <field name="Footprint">DannyFootprintLibs:LED0805-RD_RED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="Li-ion_600maH_1A">
+      <fields>
+        <field name="Reference">B</field>
+        <field name="Value">Li-ion_600maH_1A</field>
+        <field name="Footprint">DannyFootprintLibs:2P bat</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="power_out"/>
+        <pin num="2" name="" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="PG1353">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">PG1353</field>
+        <field name="Footprint">DannyFootprintLibs:SW_Kailh_Choc_V2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="RKJXV122400R">
+      <description>RKJXV122400R</description>
+      <docs>https://tech.alpsalpine.com/prod/e/html/multicontrol/potentiometer/rkjxk/rkjxv122400r.html</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">RKJXV122400R</field>
+        <field name="Footprint">DannyFootprintLibs:RKJXV122400R</field>
+        <field name="Datasheet">https://tech.alpsalpine.com/prod/e/html/multicontrol/potentiometer/rkjxk/rkjxv122400r.html</field>
+        <field name="Description">RKJXV122400R</field>
+        <field name="Height">18.95</field>
+        <field name="Manufacturer_Name">ALPS Electric</field>
+        <field name="Manufacturer_Part_Number">RKJXV122400R</field>
+        <field name="Mouser Part Number">688-RKJXV122400R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/RKJXV122400R?qs=GedFDFLaBXEbB%252ByoOVwLBg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="A1" type="passive"/>
+        <pin num="A11" name="A11" type="passive"/>
+        <pin num="A12" name="A12" type="passive"/>
+        <pin num="A13" name="A13" type="passive"/>
+        <pin num="B1" name="B1" type="passive"/>
+        <pin num="B11" name="B11" type="passive"/>
+        <pin num="B12" name="B12" type="passive"/>
+        <pin num="B13" name="B13" type="passive"/>
+        <pin num="C1" name="C1" type="passive"/>
+        <pin num="D1" name="D1" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+        <pin num="MH3" name="MH3" type="passive"/>
+        <pin num="MH4" name="MH4" type="passive"/>
+        <pin num="MH5" name="MH5" type="passive"/>
+        <pin num="MH6" name="MH6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="SWDPins">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">SWDPins</field>
+        <field name="Footprint">DannyFootprintLibs:4X1_PROGRAM_PIN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="bidirectional"/>
+        <pin num="2" name="GND" type="bidirectional"/>
+        <pin num="3" name="SWDIO" type="bidirectional"/>
+        <pin num="4" name="SWCLK" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="TP4056X">
+      <description>PMIC - Battery Management SOP-8_EP_150mil RoHS</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/Nanjing-Extension-Microelectronics-TP4056X_C191323.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TP4056X</field>
+        <field name="Footprint">DannyFootprintLibs:ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/Nanjing-Extension-Microelectronics-TP4056X_C191323.pdf</field>
+        <field name="Description">PMIC - Battery Management SOP-8_EP_150mil RoHS</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Nanjing Extension Microelectronics</field>
+        <field name="Manufacturer_Part_Number">TP4056X</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TEMP" type="passive"/>
+        <pin num="2" name="PROG" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="VCC" type="passive"/>
+        <pin num="5" name="BAT" type="passive"/>
+        <pin num="6" name="~{STDBY}" type="passive"/>
+        <pin num="7" name="~{CHRG}" type="passive"/>
+        <pin num="8" name="CE" type="passive"/>
+        <pin num="9" name="EAD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dannySymLib" part="TYPE-C-31-M-17">
+      <description>USB Connectors 6 Receptacle 1 RoHS</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/1903211732_Korean-Hroparts-Elec-TYPE-C-31-M-17_C283540.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TYPE-C-31-M-17</field>
+        <field name="Footprint">DannyFootprintLibs:TYPE-C-SMD_TYPE-C-31-M-16</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/1903211732_Korean-Hroparts-Elec-TYPE-C-31-M-17_C283540.pdf</field>
+        <field name="Description">USB Connectors 6 Receptacle 1 RoHS</field>
+        <field name="Height">3.26</field>
+        <field name="Manufacturer_Name">Korean Hroparts Elec</field>
+        <field name="Manufacturer_Part_Number">TYPE-C-31-M-17</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MH1" type="passive"/>
+        <pin num="2" name="MH2" type="passive"/>
+        <pin num="3" name="MH3" type="passive"/>
+        <pin num="4" name="MH4" type="passive"/>
+        <pin num="A5" name="CC1" type="passive"/>
+        <pin num="A9" name="VBUS_1" type="passive"/>
+        <pin num="A12" name="GND_1" type="passive"/>
+        <pin num="B5" name="CC2" type="passive"/>
+        <pin num="B9" name="VBUS_2" type="passive"/>
+        <pin num="B12" name="GND_2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="MCU_ST_STM32F1">
+      <uri>D:\Kicad\6.0\share\kicad\symbols\/MCU_ST_STM32F1.kicad_sym</uri>
+    </library>
+    <library logical="dannySymLib">
+      <uri>E:/Kicad/DannySymLibs/dannySymLib.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3V3">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="input"/>
+      <node ref="IC1" pin="5" pinfunction="VOUT" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="LED2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="1" pinfunction="3V3" pintype="bidirectional"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="S1" pin="A13" pinfunction="A13" pintype="passive"/>
+      <node ref="S1" pin="B13" pinfunction="B13" pintype="passive"/>
+      <node ref="S2" pin="2" pintype="input"/>
+      <node ref="S3" pin="2" pintype="input"/>
+      <node ref="U1" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U1" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="36" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="2" name="/ADC_IN0">
+      <node ref="S1" pin="A12" pinfunction="A12" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/ADC_IN1">
+      <node ref="S1" pin="B12" pinfunction="B12" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/AGND">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="FB2" pin="2" pintype="input"/>
+      <node ref="J2" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="5" name="/AVDD">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="input"/>
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="6" name="/CS">
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/ChargeIn">
+      <node ref="IC3" pin="4" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC3" pin="8" pinfunction="CE" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS_1" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS_2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/DISP">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/EXTCOMM">
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/EXTMODE">
+      <node ref="J2" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="input"/>
+      <node ref="IC1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="S1" pintype="passive"/>
+      <node ref="IC3" pin="1" pinfunction="TEMP" pintype="passive"/>
+      <node ref="IC3" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="IC3" pin="6" pinfunction="~{STDBY}" pintype="passive"/>
+      <node ref="IC3" pin="9" pinfunction="EAD" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND_1" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND_2" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="JP1" pin="2" pintype="bidirectional"/>
+      <node ref="P1" pin="2" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="S1" pin="A11" pinfunction="A11" pintype="passive"/>
+      <node ref="S1" pin="B11" pinfunction="B11" pintype="passive"/>
+      <node ref="S4" pin="1" pintype="bidirectional"/>
+      <node ref="U1" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="35" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="47" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="49" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="VSSA" pintype="power_in"/>
+    </net>
+    <net code="12" name="/MOSI">
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/NRST">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="14" name="/PB0">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="S2" pin="1" pintype="input"/>
+      <node ref="U1" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/PB1">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="S3" pin="1" pintype="input"/>
+      <node ref="U1" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/PD0">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="PD0" pintype="input"/>
+      <node ref="Y1" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/PD1">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="PD1" pintype="input"/>
+      <node ref="Y1" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/S2">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="S2" pintype="passive"/>
+      <node ref="IC2" pin="6" pinfunction="VSS" pintype="passive"/>
+      <node ref="JP1" pin="1" pintype="bidirectional"/>
+      <node ref="JP2" pin="1" pintype="bidirectional"/>
+      <node ref="S4" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/SCK">
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/SWCLK">
+      <node ref="P1" pin="4" pinfunction="SWCLK" pintype="bidirectional"/>
+      <node ref="U1" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/SWDIO">
+      <node ref="P1" pin="3" pinfunction="SWDIO" pintype="bidirectional"/>
+      <node ref="U1" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/Vbat">
+      <node ref="B1" pin="2" pintype="power_out"/>
+      <node ref="JP3" pin="1" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="S4" pin="4" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/Vin">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="VIN" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="EN" pintype="passive"/>
+      <node ref="S4" pin="5" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(B1-Pad1)">
+      <node ref="B1" pin="1" pintype="power_out"/>
+      <node ref="JP2" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="5" pinfunction="VDD" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(IC2-Pad1)">
+      <node ref="IC2" pin="1" pinfunction="V-" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(IC3-Pad2)">
+      <node ref="IC3" pin="2" pinfunction="PROG" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(IC3-Pad5)">
+      <node ref="IC3" pin="5" pinfunction="BAT" pintype="passive"/>
+      <node ref="JP3" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="Net-(IC3-Pad7)">
+      <node ref="IC3" pin="7" pinfunction="~{CHRG}" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(LED2-Pad1)">
+      <node ref="LED2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="unconnected-(IC1-Pad4)">
+      <node ref="IC1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(IC2-Pad4)">
+      <node ref="IC2" pin="4" pinfunction="D" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="MH1" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="MH2" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="MH3" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="MH4" pintype="passive+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="passive+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="passive+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(J2-PadMP1)">
+      <node ref="J2" pin="MP1" pinfunction="MP1" pintype="passive+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(J2-PadMP2)">
+      <node ref="J2" pin="MP2" pinfunction="MP2" pintype="passive+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(S1-PadA1)">
+      <node ref="S1" pin="A1" pinfunction="A1" pintype="passive+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(S1-PadB1)">
+      <node ref="S1" pin="B1" pinfunction="B1" pintype="passive+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(S1-PadC1)">
+      <node ref="S1" pin="C1" pinfunction="C1" pintype="passive+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(S1-PadD1)">
+      <node ref="S1" pin="D1" pinfunction="D1" pintype="passive+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(S1-PadMH1)">
+      <node ref="S1" pin="MH1" pinfunction="MH1" pintype="passive+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(S1-PadMH2)">
+      <node ref="S1" pin="MH2" pinfunction="MH2" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(S1-PadMH3)">
+      <node ref="S1" pin="MH3" pinfunction="MH3" pintype="passive+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(S1-PadMH4)">
+      <node ref="S1" pin="MH4" pinfunction="MH4" pintype="passive+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(S1-PadMH5)">
+      <node ref="S1" pin="MH5" pinfunction="MH5" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(S1-PadMH6)">
+      <node ref="S1" pin="MH6" pinfunction="MH6" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(S4-Pad3)">
+      <node ref="S4" pin="3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(S4-Pad6)">
+      <node ref="S4" pin="6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="PC13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="PC14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="PC15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="PA2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="PA3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="PA6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="PB10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="PB11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="PB12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="PB13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="PB14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="PB15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U1-Pad29)">
+      <node ref="U1" pin="29" pinfunction="PA8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U1-Pad30)">
+      <node ref="U1" pin="30" pinfunction="PA9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U1-Pad31)">
+      <node ref="U1" pin="31" pinfunction="PA10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U1-Pad32)">
+      <node ref="U1" pin="32" pinfunction="PA11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U1-Pad33)">
+      <node ref="U1" pin="33" pinfunction="PA12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U1-Pad38)">
+      <node ref="U1" pin="38" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U1-Pad39)">
+      <node ref="U1" pin="39" pinfunction="PB3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U1-Pad40)">
+      <node ref="U1" pin="40" pinfunction="PB4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="PB6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U1-Pad43)">
+      <node ref="U1" pin="43" pinfunction="PB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U1-Pad45)">
+      <node ref="U1" pin="45" pinfunction="PB8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U1-Pad46)">
+      <node ref="U1" pin="46" pinfunction="PB9" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
